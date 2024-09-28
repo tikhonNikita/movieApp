@@ -1,0 +1,23 @@
+{
+  "name": "react-native-movie-list",
+  "version": "0.0.0",
+  "description": "SwiftUI based movie list",
+  "main": "src/index",
+  "codegenConfig": {
+    "name": "RNMovieList",
+    "type": "all",
+    "jsSrcsDir": "src"
+  },
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme",
+  "devDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.74.3"
+  },
+  "create-react-native-library": {
+    "type": "view-new",
+    "languages": "kotlin-objc",
+    "version": "0.38.1"
+  }
+}
